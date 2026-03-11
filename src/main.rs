@@ -438,6 +438,13 @@ fn search_python_repos(client: &Client, page: u32, config: &RunConfig) -> Result
             .send()
             .context("failed to query GitHub search API")?;
 
+        if response.status() == StatusCode::UNPROCESSABLE_ENTITY {
+            println!(
+                "  GitHub returned 422 for page {page} - treating as end of available results (likely hit the 1,000-result search limit)."
+            );
+            return Ok(Vec::new());
+        }
+
         if response.status() == StatusCode::FORBIDDEN {
             let wait_seconds = response
                 .headers()

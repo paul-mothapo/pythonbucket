@@ -1,9 +1,9 @@
 # Python Bucket
 
-![Last Updated](https://img.shields.io/badge/Updated%20on-2026-03-09%2007%3A01%20UTC-brightgreen)
-![Total Projects](https://img.shields.io/badge/Projects%20Indexed-601-blue)
+![Last Updated](https://img.shields.io/badge/Updated%20on-2026-03-11%2012%3A59%20UTC-brightgreen)
+![Total Projects](https://img.shields.io/badge/Projects%20Indexed-766-blue)
 
-## Updated on 2026-03-09 07:01 UTC
+## Updated on 2026-03-11 12:59 UTC
 
 > Automated collection of open-source Python projects from GitHub.
 > Built as a filtered discovery index for active Python repositories.
@@ -12,11 +12,11 @@
 
 | Metric | Value |
 | --- | --- |
-| Total projects indexed | 601 |
-| New repos added this run | 500 |
-| Median stars | 14057 |
-| Active in last 180 days | 526 |
-| Repos with a detected license | 570 |
+| Total projects indexed | 766 |
+| New repos added this run | 165 |
+| Median stars | 10362 |
+| Active in last 180 days | 652 |
+| Repos with a detected license | 729 |
 
 ## Filters
 
@@ -26,48 +26,48 @@
 | Minimum stars | 0 |
 | Forks included | no |
 | Archived repos included | no |
-| Inactive cutoff | 2024-09-15 |
-| Last saved page | 8 |
+| Inactive cutoff | 2024-09-17 |
+| Last saved page | 11 |
 
 ## New Repos Added This Run
 
 | Project | Stars | Updated | Description |
 | --- | --- | --- | --- |
-| [MockingBird](https://github.com/babysor/MockingBird) | 36877 | 2026-03-03 | 🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time |
-| [sqlmap](https://github.com/sqlmapproject/sqlmap) | 36785 | 2026-02-26 | Automatic SQL injection and database takeover tool |
-| [supervision](https://github.com/roboflow/supervision) | 36655 | 2026-03-03 | We write your reusable computer vision tools. 💜 |
-| [GPT_API_free](https://github.com/chatanywhere/GPT_API_free) | 36489 | 2026-03-06 | Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt \|... |
-| [HanLP](https://github.com/hankcs/HanLP) | 36174 | 2025-11-15 | 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼... |
-| [OpenVoice](https://github.com/myshell-ai/OpenVoice) | 36051 | 2025-04-19 | Instant voice cloning by MIT and MyShell. Audio foundation model. |
-| [jax](https://github.com/jax-ml/jax) | 35027 | 2026-03-09 | Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to G... |
-| [Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) | 34717 | 2024-11-24 | Easily train a good VC model with voice data <= 10 mins! |
-| [Hello-Python](https://github.com/mouredev/Hello-Python) | 34709 | 2025-08-11 | Curso para aprender el lenguaje de programación Python desde cero y para principiantes.... |
-| [textual](https://github.com/Textualize/textual) | 34695 | 2026-03-08 | The lean application framework for Python. Build sophisticated user interfaces with a... |
-| [detectron2](https://github.com/facebookresearch/detectron2) | 34186 | 2025-11-17 | Detectron2 is a platform for object detection, segmentation and other visual recognitio... |
-| [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) | 33804 | 2025-11-10 | The first real AI developer |
-| [XX-Net](https://github.com/XX-net/XX-Net) | 33451 | 2026-02-20 | A proxy tool to bypass GFW. |
-| [spaCy](https://github.com/explosion/spaCy) | 33285 | 2026-03-03 | 💫 Industrial-strength Natural Language Processing (NLP) in Python |
-| [certbot](https://github.com/certbot/certbot) | 32887 | 2026-03-07 | Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable H... |
+| [bertviz](https://github.com/jessevig/bertviz) | 7937 | 2026-01-08 | BertViz: Visualize Attention in Transformer Models |
+| [MONAI](https://github.com/Project-MONAI/MONAI) | 7922 | 2026-03-06 | AI Toolkit for Healthcare Imaging |
+| [ajenti](https://github.com/ajenti/ajenti) | 7907 | 2026-02-26 | Ajenti Core and stock plugins |
+| [bandit](https://github.com/PyCQA/bandit) | 7851 | 2026-03-09 | Bandit is a tool designed to find common security issues in Python code. |
+| [sphinx](https://github.com/sphinx-doc/sphinx) | 7719 | 2026-03-08 | The Sphinx documentation generator |
+| [Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2) | 7688 | 2025-01-22 | [NeurIPS 2024] Depth Anything V2. A More Capable Foundation Model for Monocular Depth E... |
+| [ultisnips](https://github.com/SirVer/ultisnips) | 7687 | 2025-06-05 | UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips! |
+| [alphafold3](https://github.com/google-deepmind/alphafold3) | 7681 | 2026-03-10 | AlphaFold 3 inference pipeline. |
+| [PyGithub](https://github.com/PyGithub/PyGithub) | 7677 | 2026-02-23 | Typed interactions with the GitHub API v3 |
+| [lmdeploy](https://github.com/InternLM/lmdeploy) | 7672 | 2026-03-11 | LMDeploy is a toolkit for compressing, deploying, and serving LLMs. |
+| [cheatsheets](https://github.com/matplotlib/cheatsheets) | 7651 | 2025-12-15 | Official Matplotlib cheat sheets |
+| [linux-insides-zh](https://github.com/hust-open-atom-club/linux-insides-zh) | 7643 | 2025-07-17 | Linux 内核揭秘 |
+| [tubearchivist](https://github.com/tubearchivist/tubearchivist) | 7642 | 2026-03-07 | Your self hosted YouTube media server |
+| [hrms](https://github.com/frappe/hrms) | 7626 | 2026-03-11 | Open Source HR and Payroll Software |
+| [Verba](https://github.com/weaviate/Verba) | 7605 | 2025-07-14 | Retrieval Augmented Generation (RAG) chatbot powered by Weaviate |
 
 ## Most Recently Updated Repos
 
 | Project | Stars | Updated | Description |
 | --- | --- | --- | --- |
-| [mlflow](https://github.com/mlflow/mlflow) | 24642 | 2026-03-09 | The open source developer platform to build AI agents and models with confidence. Enhan... |
-| [posthog](https://github.com/PostHog/posthog) | 31933 | 2026-03-09 | 🦔 PostHog is an all-in-one developer platform for building successful products. We offe... |
-| [integration](https://github.com/hacs/integration) | 7174 | 2026-03-09 | HACS gives you a powerful UI to handle downloads of all your custom needs. |
-| [cognee](https://github.com/topoteretes/cognee) | 13068 | 2026-03-09 | Knowledge Engine for AI Agent Memory in 6 lines of code |
-| [kimi-cli](https://github.com/MoonshotAI/kimi-cli) | 7034 | 2026-03-09 | Kimi Code CLI is your next CLI agent. |
-| [jumpserver](https://github.com/jumpserver/jumpserver) | 30050 | 2026-03-09 | JumpServer is an open-source Privileged Access Management (PAM) platform that provides... |
-| [google-cloud-python](https://github.com/googleapis/google-cloud-python) | 5227 | 2026-03-09 | Google Cloud Client Libraries for Python |
-| [CoPaw](https://github.com/agentscope-ai/CoPaw) | 9848 | 2026-03-09 | Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud... |
-| [beets](https://github.com/beetbox/beets) | 14818 | 2026-03-09 | music library manager and MusicBrainz tagger |
-| [LMCache](https://github.com/LMCache/LMCache) | 7582 | 2026-03-09 | Supercharge Your LLM with the Fastest KV Cache Layer |
-| [mihomo](https://github.com/MetaCubeX/mihomo) | 27486 | 2026-03-09 | A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API. |
-| [ms-swift](https://github.com/modelscope/ms-swift) | 12983 | 2026-03-09 | Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.5, DeepSeek-R1, GLM-5,... |
-| [LangBot](https://github.com/langbot-app/LangBot) | 15496 | 2026-03-09 | Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编... |
-| [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) | 13033 | 2026-03-09 | TensorRT LLM provides users with an easy-to-use Python API to define Large Language Mod... |
-| [polar](https://github.com/polarsource/polar) | 9535 | 2026-03-09 | Turn your software into a business. |
+| [Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) | 5755 | 2026-03-11 | NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to... |
+| [openstack](https://github.com/openstack/openstack) | 5847 | 2026-03-11 | Repository tracking all OpenStack repositories as submodules. Mirror of code maintained... |
+| [Vision-Agents](https://github.com/GetStream/Vision-Agents) | 7358 | 2026-03-11 | Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provi... |
+| [presidio](https://github.com/microsoft/presidio) | 7179 | 2026-03-11 | An open-source framework for detecting, redacting, masking, and anonymizing sensitive d... |
+| [cryptography](https://github.com/pyca/cryptography) | 7509 | 2026-03-11 | cryptography is a package designed to expose cryptographic primitives and recipes to Py... |
+| [kimi-cli](https://github.com/MoonshotAI/kimi-cli) | 7106 | 2026-03-11 | Kimi Code CLI is your next CLI agent. |
+| [hrms](https://github.com/frappe/hrms) | 7626 | 2026-03-11 | Open Source HR and Payroll Software |
+| [lmdeploy](https://github.com/InternLM/lmdeploy) | 7672 | 2026-03-11 | LMDeploy is a toolkit for compressing, deploying, and serving LLMs. |
+| [torchtune](https://github.com/meta-pytorch/torchtune) | 5697 | 2026-03-11 | PyTorch native post-training library |
+| [TabPFN](https://github.com/PriorLabs/TabPFN) | 5829 | 2026-03-11 | ⚡ TabPFN: Foundation Model for Tabular Data ⚡ |
+| [NetAlertX](https://github.com/netalertx/NetAlertX) | 5883 | 2026-03-11 | Centralized network visibility and continuous asset discovery. Monitor devices, detect... |
+| [qiskit](https://github.com/Qiskit/qiskit) | 7117 | 2026-03-11 | Qiskit is an open-source SDK for working with quantum computers at the level of extende... |
+| [LMCache](https://github.com/LMCache/LMCache) | 7614 | 2026-03-11 | Supercharge Your LLM with the Fastest KV Cache Layer |
+| [data-juicer](https://github.com/datajuicer/data-juicer) | 6042 | 2026-03-11 | Data processing for and with foundation models! 🍎 🍋 🌽 ➡️ ➡️🍸 🍹 🍷 |
+| [rf-detr](https://github.com/roboflow/rf-detr) | 5845 | 2026-03-11 | [ICLR 2026] RF-DETR is a real-time object detection and segmentation model architecture... |
 
 ## Top 500 Python Projects
 
@@ -542,37 +542,37 @@
 | 467 | [higgs-audio](https://github.com/boson-ai/higgs-audio) | 7962 | 608 | 2026-01-18 | Text-audio foundation model from Boson AI |
 | 468 | [orjson](https://github.com/ijl/orjson) | 7948 | 296 | 2026-03-03 | Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy |
 | 469 | [librephotos](https://github.com/LibrePhotos/librephotos) | 7941 | 370 | 2026-03-04 | A self-hosted open source photo management service. This is the repository of the backend. |
-| 470 | [archinstall](https://github.com/archlinux/archinstall) | 7920 | 696 | 2026-03-09 | Arch Linux installer - guided, templates etc. |
-| 471 | [MiroFish](https://github.com/666ghj/MiroFish) | 7897 | 846 | 2026-03-07 | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
-| 472 | [sygil-webui](https://github.com/Sygil-Dev/sygil-webui) | 7895 | 866 | 2025-12-02 | Stable Diffusion web UI |
-| 473 | [fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) | 7893 | 1377 | 2025-11-29 | fast-stable-diffusion + DreamBooth |
-| 474 | [BabelDOC](https://github.com/funstory-ai/BabelDOC) | 7866 | 615 | 2026-02-15 | Yet Another Document Translator |
-| 475 | [PyMySQL](https://github.com/PyMySQL/PyMySQL) | 7838 | 1441 | 2025-08-24 | MySQL client library for Python |
-| 476 | [dotbot](https://github.com/anishathalye/dotbot) | 7821 | 315 | 2026-03-08 | A tool that bootstraps your dotfiles ⚡️ |
-| 477 | [ml-sharp](https://github.com/apple/ml-sharp) | 7819 | 561 | 2025-12-19 | Sharp Monocular View Synthesis in Less Than a Second |
-| 478 | [Upsonic](https://github.com/Upsonic/Upsonic) | 7809 | 723 | 2026-03-04 | Agent Framework For Fintech and Banks |
-| 479 | [backgroundremover](https://github.com/nadermx/backgroundremover) | 7776 | 641 | 2026-02-17 | Background Remover lets you Remove Background from images and video using AI with a sim... |
-| 480 | [stanza](https://github.com/stanfordnlp/stanza) | 7734 | 938 | 2026-03-09 | Stanford NLP Python library for tokenization, sentence segmentation, NER, and parsing o... |
-| 481 | [R2R](https://github.com/SciPhi-AI/R2R) | 7719 | 629 | 2025-11-07 | SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG)... |
-| 482 | [ERNIE](https://github.com/PaddlePaddle/ERNIE) | 7691 | 1456 | 2026-01-04 | The official repository for ERNIE 4.5 and ERNIEKit – its industrial-grade development t... |
-| 483 | [PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) | 7687 | 741 | 2026-02-24 | A fluent design widgets library based on C++ Qt/PyQt/PySide. Make Qt Great Again. |
-| 484 | [SenseVoice](https://github.com/FunAudioLLM/SenseVoice) | 7666 | 705 | 2025-12-30 | Multilingual Voice Understanding Model |
-| 485 | [pyinstrument](https://github.com/joerick/pyinstrument) | 7655 | 257 | 2026-03-01 | 🚴 Call stack profiler for Python. Shows you why your code is slow! |
-| 486 | [lamda](https://github.com/firerpa/lamda) | 7654 | 1024 | 2026-02-20 | The most powerful Android RPA agent framework, next generation of mobile automation rob... |
-| 487 | [featuretools](https://github.com/alteryx/featuretools) | 7619 | 907 | 2026-02-03 | An open source python library for automated feature engineering |
-| 488 | [hyperopt](https://github.com/hyperopt/hyperopt) | 7607 | 1078 | 2026-02-08 | Distributed Asynchronous Hyperparameter Optimization in Python |
-| 489 | [PyTorch-VAE](https://github.com/AntixK/PyTorch-VAE) | 7601 | 1190 | 2025-03-21 | A Collection of Variational Autoencoders (VAE) in PyTorch. |
-| 490 | [azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) | 7598 | 5258 | 2026-03-06 | A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azu... |
-| 491 | [ffsubsync](https://github.com/smacke/ffsubsync) | 7598 | 316 | 2025-11-25 | Automagically synchronize subtitles with video. |
-| 492 | [autocut](https://github.com/mli/autocut) | 7588 | 792 | 2024-10-05 | 用文本编辑器剪视频 |
-| 493 | [LMCache](https://github.com/LMCache/LMCache) | 7582 | 983 | 2026-03-09 | Supercharge Your LLM with the Fastest KV Cache Layer |
-| 494 | [cryptography](https://github.com/pyca/cryptography) | 7508 | 1721 | 2026-03-08 | cryptography is a package designed to expose cryptographic primitives and recipes to Py... |
-| 495 | [agent-squad](https://github.com/awslabs/agent-squad) | 7496 | 701 | 2026-02-11 | Flexible and powerful framework for managing multiple AI agents and handling complex co... |
-| 496 | [llama-models](https://github.com/meta-llama/llama-models) | 7496 | 1336 | 2026-02-11 | Utilities intended for use with Llama models. |
-| 497 | [boilerplates](https://github.com/ChristianLempa/boilerplates) | 7485 | 1830 | 2026-03-09 | This is my personal template collection. Here you'll find templates, and configurations... |
-| 498 | [tinydb](https://github.com/msiemens/tinydb) | 7480 | 598 | 2026-01-17 | TinyDB is a lightweight document oriented database optimized for your happiness :) |
-| 499 | [r0capture](https://github.com/r0ysue/r0capture) | 7445 | 1489 | 2026-03-09 | 安卓应用层抓包通杀脚本 |
-| 500 | [PyTorch-YOLOv3](https://github.com/eriklindernoren/PyTorch-YOLOv3) | 7441 | 2605 | 2024-11-17 | Minimal PyTorch implementation of YOLOv3 |
+| 470 | [bertviz](https://github.com/jessevig/bertviz) | 7937 | 869 | 2026-01-08 | BertViz: Visualize Attention in Transformer Models |
+| 471 | [archinstall](https://github.com/archlinux/archinstall) | 7928 | 698 | 2026-03-09 | Arch Linux installer - guided, templates etc. |
+| 472 | [MONAI](https://github.com/Project-MONAI/MONAI) | 7922 | 1444 | 2026-03-06 | AI Toolkit for Healthcare Imaging |
+| 473 | [ajenti](https://github.com/ajenti/ajenti) | 7907 | 870 | 2026-02-26 | Ajenti Core and stock plugins |
+| 474 | [MiroFish](https://github.com/666ghj/MiroFish) | 7897 | 846 | 2026-03-07 | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
+| 475 | [fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) | 7896 | 1377 | 2025-11-29 | fast-stable-diffusion + DreamBooth |
+| 476 | [sygil-webui](https://github.com/Sygil-Dev/sygil-webui) | 7894 | 866 | 2025-12-02 | Stable Diffusion web UI |
+| 477 | [BabelDOC](https://github.com/funstory-ai/BabelDOC) | 7879 | 618 | 2026-02-15 | Yet Another Document Translator |
+| 478 | [bandit](https://github.com/PyCQA/bandit) | 7851 | 734 | 2026-03-09 | Bandit is a tool designed to find common security issues in Python code. |
+| 479 | [ml-sharp](https://github.com/apple/ml-sharp) | 7842 | 561 | 2025-12-19 | Sharp Monocular View Synthesis in Less Than a Second |
+| 480 | [PyMySQL](https://github.com/PyMySQL/PyMySQL) | 7841 | 1441 | 2025-08-24 | MySQL client library for Python |
+| 481 | [dotbot](https://github.com/anishathalye/dotbot) | 7824 | 316 | 2026-03-08 | A tool that bootstraps your dotfiles ⚡️ |
+| 482 | [Upsonic](https://github.com/Upsonic/Upsonic) | 7807 | 724 | 2026-03-10 | Agent Framework For Fintech and Banks |
+| 483 | [backgroundremover](https://github.com/nadermx/backgroundremover) | 7782 | 641 | 2026-02-17 | Background Remover lets you Remove Background from images and video using AI with a sim... |
+| 484 | [stanza](https://github.com/stanfordnlp/stanza) | 7735 | 938 | 2026-03-10 | Stanford NLP Python library for tokenization, sentence segmentation, NER, and parsing o... |
+| 485 | [R2R](https://github.com/SciPhi-AI/R2R) | 7721 | 629 | 2025-11-07 | SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG)... |
+| 486 | [sphinx](https://github.com/sphinx-doc/sphinx) | 7719 | 2393 | 2026-03-08 | The Sphinx documentation generator |
+| 487 | [ERNIE](https://github.com/PaddlePaddle/ERNIE) | 7691 | 1455 | 2026-01-04 | The official repository for ERNIE 4.5 and ERNIEKit – its industrial-grade development t... |
+| 488 | [PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) | 7690 | 741 | 2026-02-24 | A fluent design widgets library based on C++ Qt/PyQt/PySide. Make Qt Great Again. |
+| 489 | [Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2) | 7688 | 785 | 2025-01-22 | [NeurIPS 2024] Depth Anything V2. A More Capable Foundation Model for Monocular Depth E... |
+| 490 | [ultisnips](https://github.com/SirVer/ultisnips) | 7687 | 679 | 2025-06-05 | UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips! |
+| 491 | [alphafold3](https://github.com/google-deepmind/alphafold3) | 7681 | 1137 | 2026-03-10 | AlphaFold 3 inference pipeline. |
+| 492 | [SenseVoice](https://github.com/FunAudioLLM/SenseVoice) | 7678 | 705 | 2025-12-30 | Multilingual Voice Understanding Model |
+| 493 | [PyGithub](https://github.com/PyGithub/PyGithub) | 7677 | 1870 | 2026-02-23 | Typed interactions with the GitHub API v3 |
+| 494 | [lmdeploy](https://github.com/InternLM/lmdeploy) | 7672 | 660 | 2026-03-11 | LMDeploy is a toolkit for compressing, deploying, and serving LLMs. |
+| 495 | [lamda](https://github.com/firerpa/lamda) | 7658 | 1024 | 2026-02-20 | The most powerful Android RPA agent framework, next generation of mobile automation rob... |
+| 496 | [pyinstrument](https://github.com/joerick/pyinstrument) | 7657 | 258 | 2026-03-09 | 🚴 Call stack profiler for Python. Shows you why your code is slow! |
+| 497 | [cheatsheets](https://github.com/matplotlib/cheatsheets) | 7651 | 923 | 2025-12-15 | Official Matplotlib cheat sheets |
+| 498 | [linux-insides-zh](https://github.com/hust-open-atom-club/linux-insides-zh) | 7643 | 1239 | 2025-07-17 | Linux 内核揭秘 |
+| 499 | [tubearchivist](https://github.com/tubearchivist/tubearchivist) | 7642 | 359 | 2026-03-07 | Your self hosted YouTube media server |
+| 500 | [hrms](https://github.com/frappe/hrms) | 7626 | 2140 | 2026-03-11 | Open Source HR and Payroll Software |
 
 ---
 
