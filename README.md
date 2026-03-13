@@ -1,9 +1,9 @@
 # Python Bucket
 
-![Last Updated](https://img.shields.io/badge/Updated%20on-2026-03-11%2012%3A59%20UTC-brightgreen)
-![Total Projects](https://img.shields.io/badge/Projects%20Indexed-766-blue)
+![Last Updated](https://img.shields.io/badge/Updated%20on-2026-03-13%2005%3A06%20UTC-brightgreen)
+![Total Projects](https://img.shields.io/badge/Projects%20Indexed-765-blue)
 
-## Updated on 2026-03-11 12:59 UTC
+## Updated on 2026-03-13 05:06 UTC
 
 > Automated collection of open-source Python projects from GitHub.
 > Built as a filtered discovery index for active Python repositories.
@@ -12,11 +12,11 @@
 
 | Metric | Value |
 | --- | --- |
-| Total projects indexed | 766 |
-| New repos added this run | 165 |
-| Median stars | 10362 |
-| Active in last 180 days | 652 |
-| Repos with a detected license | 729 |
+| Total projects indexed | 765 |
+| New repos added this run | 0 |
+| Median stars | 10363 |
+| Active in last 180 days | 650 |
+| Repos with a detected license | 728 |
 
 ## Filters
 
@@ -26,28 +26,8 @@
 | Minimum stars | 0 |
 | Forks included | no |
 | Archived repos included | no |
-| Inactive cutoff | 2024-09-17 |
+| Inactive cutoff | 2024-09-19 |
 | Last saved page | 11 |
-
-## New Repos Added This Run
-
-| Project | Stars | Updated | Description |
-| --- | --- | --- | --- |
-| [bertviz](https://github.com/jessevig/bertviz) | 7937 | 2026-01-08 | BertViz: Visualize Attention in Transformer Models |
-| [MONAI](https://github.com/Project-MONAI/MONAI) | 7922 | 2026-03-06 | AI Toolkit for Healthcare Imaging |
-| [ajenti](https://github.com/ajenti/ajenti) | 7907 | 2026-02-26 | Ajenti Core and stock plugins |
-| [bandit](https://github.com/PyCQA/bandit) | 7851 | 2026-03-09 | Bandit is a tool designed to find common security issues in Python code. |
-| [sphinx](https://github.com/sphinx-doc/sphinx) | 7719 | 2026-03-08 | The Sphinx documentation generator |
-| [Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2) | 7688 | 2025-01-22 | [NeurIPS 2024] Depth Anything V2. A More Capable Foundation Model for Monocular Depth E... |
-| [ultisnips](https://github.com/SirVer/ultisnips) | 7687 | 2025-06-05 | UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips! |
-| [alphafold3](https://github.com/google-deepmind/alphafold3) | 7681 | 2026-03-10 | AlphaFold 3 inference pipeline. |
-| [PyGithub](https://github.com/PyGithub/PyGithub) | 7677 | 2026-02-23 | Typed interactions with the GitHub API v3 |
-| [lmdeploy](https://github.com/InternLM/lmdeploy) | 7672 | 2026-03-11 | LMDeploy is a toolkit for compressing, deploying, and serving LLMs. |
-| [cheatsheets](https://github.com/matplotlib/cheatsheets) | 7651 | 2025-12-15 | Official Matplotlib cheat sheets |
-| [linux-insides-zh](https://github.com/hust-open-atom-club/linux-insides-zh) | 7643 | 2025-07-17 | Linux 内核揭秘 |
-| [tubearchivist](https://github.com/tubearchivist/tubearchivist) | 7642 | 2026-03-07 | Your self hosted YouTube media server |
-| [hrms](https://github.com/frappe/hrms) | 7626 | 2026-03-11 | Open Source HR and Payroll Software |
-| [Verba](https://github.com/weaviate/Verba) | 7605 | 2025-07-14 | Retrieval Augmented Generation (RAG) chatbot powered by Weaviate |
 
 ## Most Recently Updated Repos
 
